@@ -1,0 +1,20 @@
+# Java compiled output
+*.class
+out/
+bin/
+build/
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Archives and packaged files
+*.zip
+*.jar
+*.war
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.log
